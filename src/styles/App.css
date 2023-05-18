@@ -37,7 +37,13 @@ button {
     border-radius: 4px;
 }
 
-.btn-blue {
+/* .row{
+    display: flex;
+    margin: 0px 150px;
+    justify-content: space-around;
+} */
+
+.btn-blue, .blue{
     background: rgb(34, 193, 195);
     color: black;
 }
